@@ -1,4 +1,4 @@
-package org.KalkulatorBinarn;
+package org.KalkulatorBinarn.Medium;
 
 public class Coords {
     public final static String FIGURE = "FIGURE";

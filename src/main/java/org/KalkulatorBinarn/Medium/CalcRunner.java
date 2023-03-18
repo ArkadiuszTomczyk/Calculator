@@ -1,4 +1,4 @@
-package org.KalkulatorBinarn;
+package org.KalkulatorBinarn.Medium;
 
 public class CalcRunner {
     public static void main(String[] args) {

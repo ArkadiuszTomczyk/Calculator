@@ -1,9 +1,9 @@
-package org.KalkulatorBinarn;
+package org.KalkulatorBinarn.Medium;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import static org.KalkulatorBinarn.CalcRow.EMPTY;
+import static org.KalkulatorBinarn.Medium.CalcRow.EMPTY;
 
 public class CalcElement {
     private int value;

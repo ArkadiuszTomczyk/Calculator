@@ -1,4 +1,4 @@
-package org.KalkulatorBinarn;
+package org.KalkulatorBinarn.Medium;
 
 import java.util.Scanner;
 
