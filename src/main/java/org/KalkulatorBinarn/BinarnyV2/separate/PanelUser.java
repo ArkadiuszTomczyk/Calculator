@@ -1,4 +1,4 @@
-package org.KalkulatorBinarn.BinarnyV2;
+package org.KalkulatorBinarn.BinarnyV2.separate;
 
 public class PanelUser {
 
